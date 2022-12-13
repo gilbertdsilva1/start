@@ -1,2 +1,3 @@
 # start
 Learniing
+<DOCTYPE html>
